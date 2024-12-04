@@ -1,0 +1,47 @@
+body{ 
+    background-color: rgba(228, 176, 92, 0.629);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-weight: 100;
+    font-style: normal;
+}
+
+header{
+    color: darkmagenta;
+}
+
+div{
+    display: block;
+    background-color: crimson;
+    border: 2px solid firebrick;
+    margin: 3em;
+    width: 40vw;
+    height: 25vh;
+}
+
+h1{
+    border: 3px dotted blueviolet;
+    margin: 3em;
+    padding: 0.25em;
+    background-color: azure;
+}
+
+a{
+    padding: 0.1em;
+    text-decoration: dotted;
+    border-radius: 0.3em;
+    margin-left: 1em;
+    color: blueviolet;
+}
+
+a:hover{
+    color: aquamarine;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+}
+
